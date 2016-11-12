@@ -1,9 +1,5 @@
 # NOBootstrap-responsive-page
-# Module 2 Coding Assignment
-
-Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
-
-
+# Coding Assignment
 
 x. The implementation of the page you will be creating should follow the mockup illustrations shown below. You are provided 3 mockups: desktop, tablet, and mobile. Your implementation has to be JUST 1 page, NOT 3 pages. In other words, you will be creating a single, responsive page.
 
